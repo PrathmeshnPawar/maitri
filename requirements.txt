@@ -1,0 +1,11 @@
+streamlit
+streamlit-webrtc
+tensorflow
+tf-keras
+torch
+torchaudio
+deepface
+speechbrain
+sounddevice
+numpy
+opencv-python
